@@ -2,9 +2,19 @@
 
 ## Contact Information
 
-- +61 487 739 101
-- hello@ronald.is
+- <a href="tel:+61 487 739 101">+61 487 739 101</a>
+- <a href="mailto:hello@ronald.is">hello@ronald.is</a>
 - https://ronald.is
+
+## Contents
+- [Introduction](#1)
+- [Skills](#2)
+- [Education](#3)
+- [Selected Contract Work](#4)
+- [Selected Employment](#5)
+- [Other Projects](#6)
+
+<a name="1"></a>
 
 ## Introduction
 
@@ -16,148 +26,199 @@ I’ve got a thing for solving tricky problems and am at my best when spanning m
 
 I live in Hobart, Tasmania, and am a citizen of both Australia and the United States.
 
+<a name="2"></a>
+
 ## Skills
 
-- Creative
-  - Design + Concept
-  - Art Direction
-  - Music Composition
-  - User Experience
-  - Far Fetched Ideas
-- Technical
-  - OSX + PC
-  - Adobe CS
-  - Ableton
-  - HTML
-  - CSS + SASS
-- Audio + Visual
-  - Production
-  - AV Events
-  - Multimedia
-  - Music + Sound
-  - Photographic
-  - Print
-- Personal
-  - Great Communicator
-  - Detail Attentive
-  - Team Player
-  - Collaboration Junkie
+### Creative
+
+- Brand & ID
+- Graphic & Concept Design
+- Content Design & Strategy
+- User Experience
+- Effective Copywriting & Storytelling
+
+### Software Competencies
+
+- Sketch
+- Illustrator / Photoshop
+- Airtable / Google Sheets / Excel
+- Word / Google Docs
+- Ableton Live
+- The Command Line
+
+### Technical
+
+- Information Architecture
+- HTML 5
+- CSS 3
+- Git
+- WordPress / WooCommerce
+- Hugo / Snipcart / Netlify
+- Schema
+- Open Graph
+- Accessibility
+
+### Personal
+
+- Great Communicator
+- Detail Attentive
+- Collaboration Junkie
+- Lateral Thinker
+
+<a name="3"></a>
 
 ## Education
 
-### Graduate Certificate - Spatial Information Architecture [2003]
+### Graduate Certificate - Spatial Information Architecture (2003)
 
-- At RMIT's Spatial Information Architecture Laboratory
-- Project based trans-disciplinary research into the creation of interactive Audio Visual Installations.
+- At RMIT's [Spatial Information Architecture Laboratory](http://www.sial.rmit.edu.au/)
+- Project based trans-disciplinary research into the creation of interactive Audio Visual Installations
 
+### Bachelor of Visual Arts + Honours (2000)
 
-### Bachelor of Visual Arts with Honors [2000]
-Australian National University (School of Arts)
-Major in Graphic Investigation, Honors specialization in New Media Production and Installation Design.
+- Australian National University
+- Major in Graphic Investigation Studio
+- Honours specialization in New Media Production + Installation Design
 
-1999
-Student Exchange Program
-Academie Vytvarnic Umeni (Czech Republic)
-Attended the Experimental Graphic Studio.
+### Student Exchange Program (1999)
 
-1995
-Certificate in Art and Design
-Barrier Reef Institute of Advanced Education
-Majored in the Painting department.
+- [Academie Vytvarnic Umeni](https://en.wikipedia.org/wiki/Academy_of_Fine_Arts,_Prague) (Prague, Czech Republic)
+- Attended the Experimental Graphic Studio
 
-## Freelance & Contract Positions
+### Certificate in Art & Design (1995)
 
-2014
-Sally Browder (Los Angeles, CA)
-Web Design & Build
-Built for Sally using the flat CMS "Stacey".
+- Barrier Reef Institute of Advanced Education
+- Majored in the Painting department
 
-2014
-Pete Anderson (Los Angeles, CA)
-Web Design & Build
-Deployed "Expanding Grid" functionality for Pete's new Solo Shack section of his site.
+<a name="4"></a>
 
-2013
-PiPS N PiXELS (Melbourne, AUS)
-Web Design & Build
-Built for PiPS N PiXELS using the flat CMS "Stacey".
+## Selected Contract Work
 
-2013
-Linterpreting (San Francisco, USA)
-Copy Writer & Consultant
-Create written content for the site's main content silos. Advise on content delivery strategy.
+### [Sonny](https://sonny.com.au/) (2019)
 
-2012 »
-Institute for Cosmological Economics (Santa Barbara, CA, USA)
-Writer, Researcher, Technical Consultant
-Research, content generation, editing and strategic work for the construction of a major new website due for launch in 2015.
+- Website Design (Hugo / Netlify)
+- Domain Name Brokerage
+- On-Site Design Assistance
 
-Selected Employment
-2012 »
-Offerman Woodshop (Los Angeles, CA, USA)
-Webmaster & Web Designer
-Design and Administer a highly popular woodcraft website that accommodates over 1 million visits annually. Maintain and evolve E-Commerce functions. Integrate back end with shipping team and product vendors.
+### [Active Vista](https://www.activevista.com.au/) (2019)
 
-2011/2012
-Tree of Life Rejuvenation Center (Patagonia, AZ, USA)
-Raw Food Chef
-Preparing 100% Live, Raw, Regan cuisine for retreat attendants at this globally recognized Detoxification Center. My position also included provision of weekly “Conscious Eating” trainings and workshops to retreat attendants.
+- Website Redesign (WordPress/ WooCommerce)
+- New Information Architecture Schema (350+ Products)
+- Security & Backup Overhaul
+- Conversion Optimisation
+- Shipping & Fulfillment Integrations
+- Delivered by [Aveling Ray](https://www.avelingray.com/)
 
-2009/2010
-Yerba Buena Center for the Arts (San Francisco, USA)
-Preparator Level 3
-Install Artworks, Multimedia and other exhibition elements for public display.
+### [Offerman Woodshop](https://offermanwoodshop.com/) (2018)
 
-2009/2010
-CCA Wattis Institute for Contemporary Arts (San Francisco, USA)
-Preparator
-Install Artworks, Multimedia and other exhibition elements for public display.
+- Website Redesign (WordPress/ WooCommerce)
+- New Information Architecture Schema
+- Content Design, Strategy, & Creation
+- Conversion Optimisation
+- Shipping & Fulfillment Integrations
+- Delivered by [Aveling Ray](https://www.avelingray.com/)
 
-2008/2010
-West Office Exhibition Design (Oakland, USA)
-Multimedia Developer & Technical Consultant
-Develop and produce interactive multimedia exhibits for a broad range of Museums and other clientele.
+### [Would Works](https://www.wouldworks.com/) (2017)
 
-2005/2008
-Exploratorium (San Francisco, USA)
-Senior Multimedia Specialist
-Analyse, design and implement Audio-Visual/Media systems and networks within the Exploratorium, and support the programmatic/performance needs of the museum.
+- Website Redesign (Shopify)
+- Content Design, Strategy, & Creation
+- Conversion Optimisation
+- Delivered by [Aveling Ray](https://www.avelingray.com/)
 
-2004/2005
-Freelance Audio Visual Technician & Consultant (London, UK)
-Freelance AV tech & Consultant in a range of capacities for both Corporate Events, and Museum/Gallery Exhibits. Key Clients included: ADi Group, Edrics AV, GHA Group, The Edge Picture Company.
+### [Templo](https://templo.com.au/) (2017)
 
-2003/2004
-Australian Center for the Moving Image (Melbourne, AUS)
-Project Coordinator: Fugitive II
-Project co-ordination and spatial design of the ACMI Commissioned “Fugitive II” exhibit; a machine-vision driven interactive video installation by pioneering new media artist Simon Penny.
+- Website Design (Static Site / Netlify)
+- Obee Widget Integration
+- Google Business Integration
+- Delivered by [Aveling Ray](https://www.avelingray.com/)
 
-2003
-Australian Center for the Moving Image (Melbourne, AUS)
-Exhibitions Designer + Preparator
-The Research, Design and Installation of audio-visual exhibit enclosures and projection surfaces within ACMI’s Screen Gallery. Working with a range of established international Filmmakers & Media Artists.
+### [Global Baseball Adventures](https://www.globalbaseballadventures.com/) (2016)
 
-2002
-Australian Center for the Moving Image (Melbourne, AUS)
-Audio Visual Technician
-The Design, Research, Prototyping and Installation of unique Audio Visual environments within ACMI’s Screen Gallery. Including a range of interactive exhibits using Infra-Red Vision Systems, Pressure Sensors, Real-time Processing, and Virtual Reality Headsets.
+- Low-Budget Website Design (Wordpress)
+- Logo Design
+- Content Design, Strategy, & Creation
+- Delivered by [Aveling Ray](https://www.avelingray.com/)
 
-2002
-Club Elektronische (Melbourne, AUS)
-Technical & Stage Manager
-The supervision of all Audio Visual and Performance requirements for Club Elektronische - a venue dedicated to exploring experimental sound and vision at the 2002 Melbourne Fringe Festival.
+### [Institute of Cosmological Econonomics](http://cosmoeconomics.com/) (2012–19)
 
-Selected Creative Projects
-2010
-Jarktagons (Music)
-Iron Peak Glass House (Full Length Album)
-Co-Producer, Composer, Vocalist, Multi Instrumentalist
+- Content Design, Strategy, & Creation
+- Information Architecture
+- Front-End Design Contributor
+- Boko Design & Production for Print-On-Demand Output
+- Researcher
+- Technical & Strategic Consultant
 
-2009
-Jarktagons (Music)
-Self Titled (Full Length Album)
-Co-Producer, Composer, Vocalist, Multi Instrumentalist
+<a name="5"></a>
 
+## Selected Employment
+
+### Multimedia Developer & Technical Consultant (2008–10)
+
+- [West Office Exhibition Design](http://woed.com/) (Oakland, USA)
+- Develop and produce interactive multimedia exhibits for a broad range of Museums and other clientele.
+
+### Senior Multimedia Specialist (2005–08)
+
+- [The Exploratorium](https://www.exploratorium.edu/) (San Francisco, USA)
+- Design, implement and support:
+  - Audio-Visual/Media Systems & Networks
+  - Webcast Events (on-site + remote)
+  - Cinema Programming
+
+### Preparator Level 3 (2009–10)
+
+- [Yerba Buena Center for the Arts](https://www.ybca.org/) (San Francisco, USA)
+- Install interactive artworks, multimedia and other exhibition elements for museum display
+
+### Project Manager: Fugitive II (2003–04)
+- [Australian Center for the Moving Image](https://acmi.net.au) (Melbourne, AUS)
+- Project co-ordination and spatial design of the ACMI Commissioned “[Fugitive II](http://simonpenny.net/works/fugitive2.html)” exhibit; a machine-vision driven interactive video installation by pioneering new media artist [Simon Penny](http://simonpenny.net/).
+
+### Exhibition Designer + Preparator (2003)
+
+- [Australian Center for the Moving Image](https://acmi.net.au) (Melbourne, AUS)
+- Research, Design and Installation of audio-visual exhibit enclosures and projection surfaces within ACMI’s Screen Gallery. Working collaboratively with a range of established international Filmmakers & Media Artists.
+
+### Audio Visual Technician (2001–03)
+
+- [Australian Center for the Moving Image](https://acmi.net.au) (Melbourne, AUS)
+- The Design, Research, Prototyping and Installation of unique Audio Visual environments within ACMI’s Screen Gallery. Including a range of interactive exhibits using Infra-Red Vision Systems, Pressure Sensors, Real-time Processing, and Virtual Reality Headsets.
+
+### Printmaker (2001–03)
+
+- [ANU Edition & Artist Book Studio](http://soad.cass.anu.edu.au/book-studio) (Canberra, AUS)
+- Fine-Art Intaglio Editions for visiting artists 
+
+<a name="6"></a>
+
+## Other Projects
+
+### [Southern Wild](https://southernwild.com.au/) (2015+)
+
+- A small family-owned fermentary owned and operated by [my partner](http://michelediener.com/) and I. We specialize in the creation of handcrafted small-batch ferments derived from organically grown Tasmanian ingredients.
+- Project includes eCommerce subscription membership.
+- Website built and maintained by yours truly.
+
+### [Jarktagons – Iron Peak Glass House](http://waynegrim.com/jarktagons-iron-peak-glass-house) (2010)
+
+- Full Length Experimental Music Album with [Wayne Grim](http://waynegrim.com/)
+- Credits:
+  - Co-Producer
+  - Composer
+  - Vocalist
+  - Multi Instrumentalist
+
+### [Jarktagons – Self Titled](https://jarktagons.bandcamp.com/) (2009)
+
+- Full Length Experimental Music Album with [Wayne Grim](http://waynegrim.com/)
+- Credits:
+  - Co-Producer
+  - Composer
+  - Vocalist
+  - Multi Instrumentalist
+
+### [Left Sensory Bypass – Temporal Exclusion](https://www.youtube.com/watch?v=Wolu4mGw6-E&list=OLAK5uy_lb6eWzGDX0pqpmxWZ9v7lHMxgZEHEzjIY) (2007)
 2007
 Left Sensory Bypass (Music)
 Temporal Exclusion (Full Length Album)
