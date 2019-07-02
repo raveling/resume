@@ -49,10 +49,11 @@ I live in Hobart, Tasmania, and am a citizen of both Australia and the United St
 
 ### Technical
 
-- Information Architecture / Schema
+- Information Architecture
 - HTML 5
 - CSS 3
 - Accessibility
+- Schema.org
 - WordPress / WooCommerce
 - Hugo / Snipcart / Netlify / Forestry
 - Git
