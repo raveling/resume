@@ -2,9 +2,9 @@
 
 ## Contact Information
 
-- <a href="tel:+61487739101">+61 487 739 101</a>
 - <a href="mailto:hello@ronald.is">hello@ronald.is</a>
 - https://ronald.is
+- <a href="tel:+61-487-739-101">+61 487 739 101</a>
 
 ## Contents
 - [Introduction](#1)
@@ -30,15 +30,15 @@ I live in Hobart, Tasmania, and am a citizen of both Australia and the United St
 
 ## Skills
 
-### Creative
+### Creative & Design
 
 - Brand & ID
-- Graphic & Concept Design
-- Content Design & Strategy
+- Graphic Design
+- Content & Strategy
 - User Experience
-- Effective Copywriting & Storytelling
+- Copywriting & Storytelling
 
-### Software Competencies
+### Software
 
 - Sketch
 - Illustrator / Photoshop
@@ -49,22 +49,20 @@ I live in Hobart, Tasmania, and am a citizen of both Australia and the United St
 
 ### Technical
 
-- Information Architecture
+- Information Architecture / Schema
 - HTML 5
 - CSS 3
-- Git
-- WordPress / WooCommerce
-- Hugo / Snipcart / Netlify
-- Schema
-- Open Graph
 - Accessibility
+- WordPress / WooCommerce
+- Hugo / Snipcart / Netlify / Forestry
+- Git
 
 ### Personal
 
 - Great Communicator
 - Detail Attentive
-- Collaboration Junkie
 - Lateral Thinker
+- Collaboration Junkie
 
 <a name="3"></a>
 
@@ -207,6 +205,16 @@ I live in Hobart, Tasmania, and am a citizen of both Australia and the United St
 - Full Length Dark Cinematic Music Album with Kris Berry
 - Credits: Co-Producer, Vocalist, Musical Contributor.
 - Album released on Paradigms Recordings in May 2007.
+
+### Other Music & Sound Design Projects
+
+- [Iris Audio Recording](https://ronaldaveling.bandcamp.com/track/iris-hermann-hesse) - of the short story by Hermann Hesse (2012)
+- [Copenhagen – Movement 1 – for Piano](https://ronaldaveling.bandcamp.com/track/copenhagen-movement-1) (2010)
+- [Tension | Release](https://ronaldaveling.bandcamp.com/track/tension-release) – with Roberto Salvatore (2009)
+- [Radiotopia](https://ronaldaveling.bandcamp.com/track/radiotopia) (2008)
+- [Exploratorium Audio ID](https://ronaldaveling.bandcamp.com/track/exploratorium-audio-id) (2007)
+- [Ice Stories Intro/Outro Theme Music](https://ronaldaveling.bandcamp.com/album/ice-stories)(2007)
+
 
 ### The Nearness of You (2003)
 
