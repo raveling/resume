@@ -32,10 +32,10 @@ I live in Hobart, Tasmania, and am a citizen of both Australia and the United St
 
 ### Creative & Design
 
-- Brand & ID
+- Brand & Identity
 - Graphic Design
-- Content & Strategy
-- User Experience
+- Content Strategy
+- UI & UX
 - Copywriting & Storytelling
 
 ### Software
