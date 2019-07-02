@@ -2,7 +2,7 @@
 
 ## Contact Information
 
-- <a href="tel:+61 487 739 101">+61 487 739 101</a>
+- <a href="tel:+61487739101">+61 487 739 101</a>
 - <a href="mailto:hello@ronald.is">hello@ronald.is</a>
 - https://ronald.is
 
@@ -18,11 +18,11 @@
 
 ## Introduction
 
-I’m a Design and User Experience specialist who crafts words, graphics, and information into beautiful, accessible, and effective outcomes.
+I’m a remote-friendly Design and User Experience specialist who crafts words, graphics, and information into beautiful, accessible, and effective outcomes.
 
 My contributions often appear in websites and digital products, yet I’m no stranger to physical and time-based media.
 
-I’ve got a thing for solving tricky problems and am at my best when spanning multiple disciplines to achieve holistically integrated outcomes.
+I’ve got a thing for solving tricky problems and am at my best when spanning disciplinary silos to achieve holistically integrated outcomes.
 
 I live in Hobart, Tasmania, and am a citizen of both Australia and the United States.
 
@@ -98,12 +98,10 @@ I live in Hobart, Tasmania, and am a citizen of both Australia and the United St
 ### [Sonny](https://sonny.com.au/) (2019)
 
 - Website Design (Hugo / Netlify)
-- Domain Name Brokerage
-- On-Site Design Assistance
 
 ### [Active Vista](https://www.activevista.com.au/) (2019)
 
-- Website Redesign (WordPress/ WooCommerce)
+- E-Commerce Website Redesign (WordPress/ WooCommerce)
 - New Information Architecture Schema (350+ Products)
 - Security & Backup Overhaul
 - Conversion Optimisation
@@ -112,7 +110,7 @@ I live in Hobart, Tasmania, and am a citizen of both Australia and the United St
 
 ### [Offerman Woodshop](https://offermanwoodshop.com/) (2018)
 
-- Website Redesign (WordPress/ WooCommerce)
+- E-Commerce Website Redesign (WordPress/ WooCommerce)
 - New Information Architecture Schema
 - Content Design, Strategy, & Creation
 - Conversion Optimisation
@@ -166,11 +164,6 @@ I live in Hobart, Tasmania, and am a citizen of both Australia and the United St
   - Webcast Events (on-site + remote)
   - Cinema Programming
 
-### Preparator Level 3 (2009–10)
-
-- [Yerba Buena Center for the Arts](https://www.ybca.org/) (San Francisco, USA)
-- Install interactive artworks, multimedia and other exhibition elements for museum display
-
 ### Project Manager: Fugitive II (2003–04)
 - [Australian Center for the Moving Image](https://acmi.net.au) (Melbourne, AUS)
 - Project co-ordination and spatial design of the ACMI Commissioned “[Fugitive II](http://simonpenny.net/works/fugitive2.html)” exhibit; a machine-vision driven interactive video installation by pioneering new media artist [Simon Penny](http://simonpenny.net/).
@@ -185,7 +178,7 @@ I live in Hobart, Tasmania, and am a citizen of both Australia and the United St
 - [Australian Center for the Moving Image](https://acmi.net.au) (Melbourne, AUS)
 - The Design, Research, Prototyping and Installation of unique Audio Visual environments within ACMI’s Screen Gallery. Including a range of interactive exhibits using Infra-Red Vision Systems, Pressure Sensors, Real-time Processing, and Virtual Reality Headsets.
 
-### Printmaker (2001–03)
+### Printmaker & Technical Assistant (2001–03)
 
 - [ANU Edition & Artist Book Studio](http://soad.cass.anu.edu.au/book-studio) (Canberra, AUS)
 - Fine-Art Intaglio Editions for visiting artists 
@@ -197,74 +190,44 @@ I live in Hobart, Tasmania, and am a citizen of both Australia and the United St
 ### [Southern Wild](https://southernwild.com.au/) (2015+)
 
 - A small family-owned fermentary owned and operated by [my partner](http://michelediener.com/) and I. We specialize in the creation of handcrafted small-batch ferments derived from organically grown Tasmanian ingredients.
-- Project includes eCommerce subscription membership.
-- Website built and maintained by yours truly.
+- Website built and maintained by yours truly and includes an eCommerce/Subscription service integration.
 
 ### [Jarktagons – Iron Peak Glass House](http://waynegrim.com/jarktagons-iron-peak-glass-house) (2010)
 
-- Full Length Experimental Music Album with [Wayne Grim](http://waynegrim.com/)
-- Credits:
-  - Co-Producer
-  - Composer
-  - Vocalist
-  - Multi Instrumentalist
+- Full-Length Experimental Music Album with [Wayne Grim](http://waynegrim.com/)
+- Credits: Co-Producer, Composer, Vocalist, Multi Instrumentalist
 
 ### [Jarktagons – Self Titled](https://jarktagons.bandcamp.com/) (2009)
 
-- Full Length Experimental Music Album with [Wayne Grim](http://waynegrim.com/)
-- Credits:
-  - Co-Producer
-  - Composer
-  - Vocalist
-  - Multi Instrumentalist
+- Full-Length Experimental Music Album with [Wayne Grim](http://waynegrim.com/)
+- Credits: Co-Producer, Composer, Vocalist, Multi Instrumentalist
 
 ### [Left Sensory Bypass – Temporal Exclusion](https://www.youtube.com/watch?v=Wolu4mGw6-E&list=OLAK5uy_lb6eWzGDX0pqpmxWZ9v7lHMxgZEHEzjIY) (2007)
-2007
-Left Sensory Bypass (Music)
-Temporal Exclusion (Full Length Album)
-Co-Producer, Vocalist, Musical Contributor. Album released on Paradigms Recordings May 2007
 
-2003
-The Nearness of You (Interactive Audiovisual Installation)
-Exhibited in the ‘Skins of Intimate Distance’ show at the Experimedia Gallery - State Library of Victoria, Melbourne.
+- Full Length Dark Cinematic Music Album with Kris Berry
+- Credits: Co-Producer, Vocalist, Musical Contributor.
+- Album released on Paradigms Recordings in May 2007.
 
-2002
-Stasis (Short Film)
-4 Minutes, Digital Video. Funded as part of the ‘Raw Nerve Initiative’ for young and emerging filmmakers. Premiere screening at the Australian Centre for the Moving Image, November 2002, selected for screening in the Melbourne Underground Film Festival, 2003. Funded through the Australian Film Commission & Film Victoria.
+### The Nearness of You (2003)
 
-2002
-Observatory (Sculptural Installation)
-Exhibited at Wunderkammer Gallery, Melbourne
+- Interactive Audiovisual Installation
+- Exhibited in the ‘Skins of Intimate Distance’ show at the Experimedia Gallery - State Library of Victoria, Melbourne.
 
-2000
-Sentience (Audio-Visual Installation)
-In collaboration with Composer Kate Moore. Screened at the Currong Theatre, Gorman House Arts Centre, Canberra.
+### Stasis (2002)
 
-2000
-"2000"
-Exhibition of artworks by Graduate students of the ANU’s Canberra School of Art. Exhibition included video and photographic documentation of Sentience & Observatory.
+- Short Film
+- Funded as part of the ‘Raw Nerve Initiative’ for young and emerging filmmakers.
+- Premiere screening at the Australian Centre for the Moving Image, November 2002, selected for screening in the Melbourne Underground Film Festival, 2003. 
+- Funded through the Australian Film Commission & Film Victoria.
 
-2000
-Shoalhaven
-Group exhibition of artworks by participants of the Shoalhaven Field Studies Program. Photospace Gallery, Canberra School of Art – Australian National University.
+### Observatory (2002)
 
-Awards And Funding
-2002
-Youth Mentorship Award
-Young Performing Artists Association of Australia.
-The mentorship program provided 40+ contact hours over the duration of 2002, and was undertaken with Alessio Cavallaro - Producer and Curator of New Media Projects at the Australian Centre for the Moving Image.
+- Sculptural Installation
+- Exhibited at Wunderkammer Gallery, Melbourne
 
-2001
-"Raw Nerve" Funding Award
-Australian Film Commission & Film Victoria
-Awarded film funding through the Raw Nerve Initiative for young and emerging filmmakers. Production funding for the short film “Stasis”.
+### Sentience (2000)
 
-2000
-Creative Commission
-Aboriginal Council for Reconciliation
-Comissioned to create a video composition for the handing over of the Aboriginal Reconciliation Document, screened in the Great Hall - Parliament House, Canberra.
-
-2000
-Development Funding Award
-Canberra Institute of Arts Students Association
-Development funding from the Canberra Institute of the Arts’ Students Association to research and develop the “Sentience” installation in collaboration with composer Kate Moore.
+- Audio-Visual Installation
+- In collaboration with Composer Kate Moore.
+- Screened at the Currong Theatre, Gorman House Arts Centre, Canberra.
+- Video from this installation was included in the opening performance at the  handing over of the 2000 Aboriginal Reconciliation Document the Great Hall at Parliament House, Canberra.
