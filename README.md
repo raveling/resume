@@ -1,4 +1,4 @@
-# Ronald Aveling – Résumé
+# Ronald Aveling – Resume
 
 ## Contact Information
 
@@ -142,7 +142,7 @@ I live in Hobart, Tasmania, and am a citizen of both Australia and the United St
 - Content Design, Strategy, & Creation
 - Information Architecture
 - Front-End Design Contributor
-- Boko Design & Production for Print-On-Demand Output
+- Book Design & Production for Print-On-Demand Output
 - Researcher
 - Technical & Strategic Consultant
 
